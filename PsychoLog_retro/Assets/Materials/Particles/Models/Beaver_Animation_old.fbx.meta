@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 20e8b0d465280f14bbbfc733b404c594
+timeCreated: 1474568763
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_L_1_Jnt
+    100002: Arm_L_2_Jnt
+    100004: Arm_L_3_Jnt
+    100006: Arm_R_1_Jnt
+    100008: Arm_R_2_Jnt
+    100010: Arm_R_3_Jnt
+    100012: //RootNode
+    100014: Beaver_Geo
+    100016: Elbow_L_Ctrl
+    100018: Elbow_R_Ctrl
+    100020: Foot_L_1_Ctrl
+    100022: Foot_L_1_Jnt
+    100024: Foot_L_2_Ctrl
+    100026: Foot_L_2_Jnt
+    100028: Foot_L_3_Ctrl
+    100030: Foot_L_3_Jnt
+    100032: Foot_L_Grp
+    100034: Foot_L_Grp1
+    100036: Foot_R_1_Ctrl
+    100038: Foot_R_1_Jnt
+    100040: Foot_R_2_Ctrl
+    100042: Foot_R_2_Jnt
+    100044: Foot_R_3_Ctrl
+    100046: Foot_R_3_Jnt
+    100048: GEO
+    100050: Hand_L_Ctrl
+    100052: Hand_L_Grp
+    100054: Hand_R_Ctrl
+    100056: Hand_R_Grp
+    100058: Head_Jnt
+    100060: nurbsCircle2
+    100062: nurbsCircle3
+    100064: nurbsCircle4
+    100066: nurbsCircle5
+    100068: nurbsCircle8
+    100070: RIG
+    100072: Shoulder_L_Ctrl
+    100074: Shoulder_R_Ctrl
+    100076: Spine_1_Jnt
+    100078: Spine_2_Jnt
+    100080: Spine_3_Jnt
+    100082: Spine_4_Jnt
+    100084: Tail_1_Ctrl
+    100086: Tail_1_Jnt
+    100088: Tail_2_Ctrl
+    100090: Tail_2_Jnt
+    100092: Tail_3_Ctrl
+    100094: Tail_3_Jnt
+    100096: Tail_Grp
+    100098: WORLD_Ctrl
+    400000: Arm_L_1_Jnt
+    400002: Arm_L_2_Jnt
+    400004: Arm_L_3_Jnt
+    400006: Arm_R_1_Jnt
+    400008: Arm_R_2_Jnt
+    400010: Arm_R_3_Jnt
+    400012: //RootNode
+    400014: Beaver_Geo
+    400016: Elbow_L_Ctrl
+    400018: Elbow_R_Ctrl
+    400020: Foot_L_1_Ctrl
+    400022: Foot_L_1_Jnt
+    400024: Foot_L_2_Ctrl
+    400026: Foot_L_2_Jnt
+    400028: Foot_L_3_Ctrl
+    400030: Foot_L_3_Jnt
+    400032: Foot_L_Grp
+    400034: Foot_L_Grp1
+    400036: Foot_R_1_Ctrl
+    400038: Foot_R_1_Jnt
+    400040: Foot_R_2_Ctrl
+    400042: Foot_R_2_Jnt
+    400044: Foot_R_3_Ctrl
+    400046: Foot_R_3_Jnt
+    400048: GEO
+    400050: Hand_L_Ctrl
+    400052: Hand_L_Grp
+    400054: Hand_R_Ctrl
+    400056: Hand_R_Grp
+    400058: Head_Jnt
+    400060: nurbsCircle2
+    400062: nurbsCircle3
+    400064: nurbsCircle4
+    400066: nurbsCircle5
+    400068: nurbsCircle8
+    400070: RIG
+    400072: Shoulder_L_Ctrl
+    400074: Shoulder_R_Ctrl
+    400076: Spine_1_Jnt
+    400078: Spine_2_Jnt
+    400080: Spine_3_Jnt
+    400082: Spine_4_Jnt
+    400084: Tail_1_Ctrl
+    400086: Tail_1_Jnt
+    400088: Tail_2_Ctrl
+    400090: Tail_2_Jnt
+    400092: Tail_3_Ctrl
+    400094: Tail_3_Jnt
+    400096: Tail_Grp
+    400098: WORLD_Ctrl
+    4300000: Beaver_Geo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Beaver_Geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

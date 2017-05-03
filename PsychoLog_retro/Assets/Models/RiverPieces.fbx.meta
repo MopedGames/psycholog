@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: ad789c746080d5e41bb3488cef4922d6
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pieceStraight
+    100004: pieceBendLeft54
+    100006: BG_Bend54
+    100008: Water_Straight
+    100010: BG_Straight
+    100012: BG_BendLeft54
+    100014: Water_Bend54
+    100016: pieceBendRight54
+    100018: Water_BendLeft54
+    100020: Waterstraight
+    100022: straight
+    100024: bend54
+    100026: Waterbend54
+    100028: BG_Bend36
+    100030: BG_BendLeft36
+    100032: pieceBendLeft36
+    100034: pieceBendRight36
+    100036: Water_Bend36
+    100038: Water_BendLeft36
+    400000: //RootNode
+    400002: pieceStraight
+    400004: pieceBendLeft54
+    400006: BG_Bend54
+    400008: Water_Straight
+    400010: BG_Straight
+    400012: BG_BendLeft54
+    400014: Water_Bend54
+    400016: pieceBendRight54
+    400018: Water_BendLeft54
+    400020: Waterstraight
+    400022: straight
+    400024: bend54
+    400026: Waterbend54
+    400028: BG_Bend36
+    400030: BG_BendLeft36
+    400032: pieceBendLeft36
+    400034: pieceBendRight36
+    400036: Water_Bend36
+    400038: Water_BendLeft36
+    2300000: pieceStraight
+    2300002: pieceBendLeft54
+    2300004: BG_Bend54
+    2300006: Water_Straight
+    2300008: BG_Straight
+    2300010: BG_BendLeft54
+    2300012: Water_Bend54
+    2300014: pieceBendRight54
+    2300016: Water_BendLeft54
+    2300018: Waterstraight
+    2300020: straight
+    2300022: bend54
+    2300024: Waterbend54
+    2300026: BG_Bend36
+    2300028: BG_BendLeft36
+    2300030: pieceBendLeft36
+    2300032: pieceBendRight36
+    2300034: Water_Bend36
+    2300036: Water_BendLeft36
+    3300000: pieceStraight
+    3300002: pieceBendLeft54
+    3300004: BG_Bend54
+    3300006: Water_Straight
+    3300008: BG_Straight
+    3300010: BG_BendLeft54
+    3300012: Water_Bend54
+    3300014: pieceBendRight54
+    3300016: Water_BendLeft54
+    3300018: Waterstraight
+    3300020: straight
+    3300022: bend54
+    3300024: Waterbend54
+    3300026: BG_Bend36
+    3300028: BG_BendLeft36
+    3300030: pieceBendLeft36
+    3300032: pieceBendRight36
+    3300034: Water_Bend36
+    3300036: Water_BendLeft36
+    4300000: pieceStraight
+    4300002: Water_Straight
+    4300004: BG_Straight
+    4300006: pieceBendLeft54
+    4300008: Water_BendLeft54
+    4300010: BG_BendLeft54
+    4300012: pieceBendRight54
+    4300014: Water_Bend54
+    4300016: BG_Bend54
+    4300018: straight
+    4300020: Waterstraight
+    4300022: bend54
+    4300024: Waterbend54
+    4300026: pieceBendLeft36
+    4300028: Water_BendLeft36
+    4300030: BG_BendLeft36
+    4300032: pieceBendRight36
+    4300034: Water_Bend36
+    4300036: BG_Bend36
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

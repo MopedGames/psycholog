@@ -1,0 +1,98 @@
+
+Floden
+ - Snoninger
+   - vektor i midt (prototypeDONE)
+ - kameravinkel (afhængig af siderne) (?)
+ - Udsnit til RNG
+ 
+Kamera
+ - sat på vektor i midten af floden (DONE)
+ - damping, delay i forhold sving
+
+Obstacles
+ - andre logs 
+   - sløver en ned (DONE)
+   - forskellig fart (DONE)(skal stadig sættes på psykoprogress)
+   - råber af en 
+   - forskellig størrelse (DONE)
+ - siv (DONE)
+ - sten (DONE)
+   -står stille (DONE)
+ - siderne (kører på mesh renderer af floden) (DONE)
+   - sløver en ned (DONE)
+
+Bævere
+ - Blod (der er en placeholder)
+ - point (DONE)
+ - sløv en ned (DONE)
+ - AI 
+  - hopper rundt (DONE)
+  - ligger stille (x antal tid) 
+  - går efter dig hvis du ikke har fart (DONE)
+ - Animation
+
+
+Strøm
+ - partikkelsystem
+ - boost fart på psycholog (Done)
+
+Psycholog
+ - styre til sidderne (DONE)
+ - fart
+   - bliver fanget hvis man kommer ned på 0 fart
+   - hvis man har meget fart på i et sving vil man få fart ud i siden (NICE TO HAVE)
+ - hvor blodig den er
+ - snurre til siderne
+   - ruller rundt
+
+Levelhandler
+ - score (DONE)
+  - afhængig af hvor hård man har ramt bævere (DONE)
+ - Vector gennem flod (DONE)
+ - 
+ 
+ 
+ Sound handler
+  - Ambience
+   - water (done)
+   - animals (done)
+  - Music
+  - Sounds
+    - Water splash
+    - Log flowing through water
+    - Log hitting beaver (done)
+    - Blood Splatter (done)
+    - Other logs shouting psycholog
+      - "Stop being so angry, psycholog!"
+      - "Vandal!"
+      - "Hrmph!"
+      - "Speed Thug!"
+      - (if going slow)
+      - "Well hello there young fella!"
+    - Going through rushes (done)
+  Lyd
+   - sættes op (DONE)
+     - nogen lyde skal være random (Done)
+     - andre lyde afhængig af hvor hårdt man rammer (DONE)
+     
+    
+ Level Design
+  - Mangler små fix hist og her
+  
+  - Mangler slutnings sekvens
+   - God slutning - ram med ordentlig fart
+     - frakoble kamera fra hierachy og lad psykolog svømme videre
+     - Eksplosion og smoke particles
+     - fade to black
+     
+   - Dårlig slutning
+     - stop psykolog lidt inde i dammen
+     - fade to black
+     
+  
+ 
+ 
+ 
+ Menu system - Splash screen
+  - Quick guide to play (arrow keys to move)(blood to score points)(get through the
+  - 

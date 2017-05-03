@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{296DD472-40E0-04D8-16CE-1EAA7FB7E7AC}") = "PsychoLog_retro", "Assembly-CSharp-firstpass.csproj", "{542FAF84-5BF0-95D3-E1FB-AE62567922B8}"
+EndProject
+Project("{296DD472-40E0-04D8-16CE-1EAA7FB7E7AC}") = "PsychoLog_retro", "Assembly-CSharp.csproj", "{9D80C9D2-364B-E2B3-0CB0-2A721069E289}"
+EndProject
+Project("{296DD472-40E0-04D8-16CE-1EAA7FB7E7AC}") = "PsychoLog_retro", "Assembly-CSharp-Editor.csproj", "{9FCCAB98-5D8D-5C32-FC7C-4520F0023901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542FAF84-5BF0-95D3-E1FB-AE62567922B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542FAF84-5BF0-95D3-E1FB-AE62567922B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542FAF84-5BF0-95D3-E1FB-AE62567922B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542FAF84-5BF0-95D3-E1FB-AE62567922B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D80C9D2-364B-E2B3-0CB0-2A721069E289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D80C9D2-364B-E2B3-0CB0-2A721069E289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D80C9D2-364B-E2B3-0CB0-2A721069E289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D80C9D2-364B-E2B3-0CB0-2A721069E289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FCCAB98-5D8D-5C32-FC7C-4520F0023901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCCAB98-5D8D-5C32-FC7C-4520F0023901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCCAB98-5D8D-5C32-FC7C-4520F0023901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCCAB98-5D8D-5C32-FC7C-4520F0023901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

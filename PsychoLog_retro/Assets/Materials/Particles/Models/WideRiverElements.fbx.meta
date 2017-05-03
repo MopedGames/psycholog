@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 56dda0cd40db50544ba612f009d077f5
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pieceStraightWide
+    100004: pieceNarrowToWide
+    100006: pieceWideToNarrow
+    100008: Water_StraightWide
+    100010: Water_NarrowToWide
+    100012: Water_WideToNarrow
+    100014: BG_NarrowToWide
+    100016: BG_StraightWide
+    100018: BG_WideToNarrow
+    100020: BGWideBend
+    100022: WaterWideBend
+    100024: BGWideBend 1
+    100026: WaterWideBend 1
+    100028: pieceWideBendLeft1
+    100030: pieceWideBendLeft
+    400000: //RootNode
+    400002: pieceStraightWide
+    400004: pieceNarrowToWide
+    400006: pieceWideToNarrow
+    400008: Water_StraightWide
+    400010: Water_NarrowToWide
+    400012: Water_WideToNarrow
+    400014: BG_NarrowToWide
+    400016: BG_StraightWide
+    400018: BG_WideToNarrow
+    400020: BGWideBend
+    400022: WaterWideBend
+    400024: BGWideBend 1
+    400026: WaterWideBend 1
+    400028: pieceWideBendLeft1
+    400030: pieceWideBendLeft
+    2300000: pieceStraightWide
+    2300002: pieceNarrowToWide
+    2300004: pieceWideToNarrow
+    2300006: Water_StraightWide
+    2300008: Water_NarrowToWide
+    2300010: Water_WideToNarrow
+    2300012: BG_NarrowToWide
+    2300014: BG_StraightWide
+    2300016: BG_WideToNarrow
+    2300018: BGWideBend
+    2300020: WaterWideBend
+    2300022: BGWideBend 1
+    2300024: WaterWideBend 1
+    2300026: pieceWideBendLeft1
+    2300028: pieceWideBendLeft
+    3300000: pieceStraightWide
+    3300002: pieceNarrowToWide
+    3300004: pieceWideToNarrow
+    3300006: Water_StraightWide
+    3300008: Water_NarrowToWide
+    3300010: Water_WideToNarrow
+    3300012: BG_NarrowToWide
+    3300014: BG_StraightWide
+    3300016: BG_WideToNarrow
+    3300018: BGWideBend
+    3300020: WaterWideBend
+    3300022: BGWideBend 1
+    3300024: WaterWideBend 1
+    3300026: pieceWideBendLeft1
+    3300028: pieceWideBendLeft
+    4300000: pieceWideToNarrow
+    4300002: pieceNarrowToWide
+    4300004: pieceStraightWide
+    4300006: BG_WideToNarrow
+    4300008: Water_WideToNarrow
+    4300010: BG_NarrowToWide
+    4300012: Water_NarrowToWide
+    4300014: BG_StraightWide
+    4300016: Water_StraightWide
+    4300018: pieceWideBendLeft
+    4300020: WaterWideBend
+    4300022: BGWideBend
+    4300024: pieceWideBendLeft1
+    4300026: WaterWideBend
+    4300028: BGWideBend
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

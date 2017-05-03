@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: e01b5a7a3bdf3284bb965c61c426c08a
+timeCreated: 1474546701
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: belts
+    100002: beltsback
+    100004: botTeeth
+    100006: bottom
+    100008: chimney1
+    100010: chimney2
+    100012: house
+    100014: leftHorn
+    100016: leftSaw
+    100018: machine
+    100020: mouthsaw
+    100022: rightHorn
+    100024: rightSaw
+    100026: //RootNode
+    100028: topTeeth
+    100030: tounge
+    100032: toungebelt
+    400000: belts
+    400002: beltsback
+    400004: botTeeth
+    400006: bottom
+    400008: chimney1
+    400010: chimney2
+    400012: house
+    400014: leftHorn
+    400016: leftSaw
+    400018: machine
+    400020: mouthsaw
+    400022: rightHorn
+    400024: rightSaw
+    400026: //RootNode
+    400028: topTeeth
+    400030: tounge
+    400032: toungebelt
+    2300000: belts
+    2300002: beltsback
+    2300004: botTeeth
+    2300006: bottom
+    2300008: chimney1
+    2300010: chimney2
+    2300012: house
+    2300014: leftHorn
+    2300016: leftSaw
+    2300018: machine
+    2300020: mouthsaw
+    2300022: rightHorn
+    2300024: rightSaw
+    2300026: topTeeth
+    2300028: tounge
+    2300030: toungebelt
+    3300000: belts
+    3300002: beltsback
+    3300004: botTeeth
+    3300006: bottom
+    3300008: chimney1
+    3300010: chimney2
+    3300012: house
+    3300014: leftHorn
+    3300016: leftSaw
+    3300018: machine
+    3300020: mouthsaw
+    3300022: rightHorn
+    3300024: rightSaw
+    3300026: topTeeth
+    3300028: tounge
+    3300030: toungebelt
+    4300000: house
+    4300002: rightHorn
+    4300004: leftHorn
+    4300006: tounge
+    4300008: toungebelt
+    4300010: bottom
+    4300012: botTeeth
+    4300014: topTeeth
+    4300016: belts
+    4300018: beltsback
+    4300020: machine
+    4300022: chimney1
+    4300024: chimney2
+    4300026: rightSaw
+    4300028: leftSaw
+    4300030: mouthsaw
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: belts
+        weight: 1
+      - path: belts/beltsback
+        weight: 1
+      - path: house
+        weight: 1
+      - path: house/botTeeth
+        weight: 1
+      - path: house/bottom
+        weight: 1
+      - path: house/leftHorn
+        weight: 1
+      - path: house/rightHorn
+        weight: 1
+      - path: house/topTeeth
+        weight: 1
+      - path: house/tounge
+        weight: 1
+      - path: house/tounge/toungebelt
+        weight: 1
+      - path: leftSaw
+        weight: 1
+      - path: machine
+        weight: 1
+      - path: machine/chimney1
+        weight: 1
+      - path: machine/chimney2
+        weight: 1
+      - path: mouthsaw
+        weight: 1
+      - path: rightSaw
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

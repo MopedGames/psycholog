@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: ed907873e144ef148881eaaf70317e39
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BG_BendRight30
+    100004: BG_Straight
+    100006: Water_Straight
+    100008: BG_BendLeft30
+    100010: pieceBendLeft30
+    100012: pieceStraight
+    100014: Water_BendRight30
+    100016: pieceBendRight30
+    100018: Water_BendLeft30
+    400000: //RootNode
+    400002: BG_BendRight30
+    400004: BG_Straight
+    400006: Water_Straight
+    400008: BG_BendLeft30
+    400010: pieceBendLeft30
+    400012: pieceStraight
+    400014: Water_BendRight30
+    400016: pieceBendRight30
+    400018: Water_BendLeft30
+    2300000: BG_BendRight30
+    2300002: BG_Straight
+    2300004: Water_Straight
+    2300006: BG_BendLeft30
+    2300008: pieceBendLeft30
+    2300010: pieceStraight
+    2300012: Water_BendRight30
+    2300014: pieceBendRight30
+    2300016: Water_BendLeft30
+    3300000: BG_BendRight30
+    3300002: BG_Straight
+    3300004: Water_Straight
+    3300006: BG_BendLeft30
+    3300008: pieceBendLeft30
+    3300010: pieceStraight
+    3300012: Water_BendRight30
+    3300014: pieceBendRight30
+    3300016: Water_BendLeft30
+    4300000: pieceStraight
+    4300002: pieceBendLeft30
+    4300004: Water_BendLeft30
+    4300006: BG_BendLeft30
+    4300008: Water_Straight
+    4300010: BG_Straight
+    4300012: pieceBendRight30
+    4300014: Water_BendRight30
+    4300016: BG_BendRight30
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
